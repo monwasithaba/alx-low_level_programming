@@ -7,6 +7,6 @@
 
 int main(void)
 {
-printnf("with grammar, but the outcome is a place of art,\n");
+printf("with grammar, but the outcome is a place of art,\n");
 return(0);
 }
