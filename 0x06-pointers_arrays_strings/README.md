@@ -1,1 +1,1 @@
-Pointer and arrays thask 6
+The second Pointer and arrays task 6
