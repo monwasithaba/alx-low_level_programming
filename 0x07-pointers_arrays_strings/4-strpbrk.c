@@ -19,10 +19,10 @@ char *_strbrk(char *s, char *accept)
 				break;
 			}
 		}
-	}
-	if (*(accept + j) != '\0')
-	{
-		return (s + i);
+		if (*(accept + j) != '\0')
+		{
+			return (s + i);
+		}
 	}
 	return (0);
 }
