@@ -3,9 +3,10 @@
 *_strspn - prints the consecustive characters of the s1 that are in s2
 *@s: source string
 *@accept: searching string
+*
 *Return: new string
 */
-char *_strspn(char *s, char *accept)
+char int _strspn(char *s, char *accept)
 {
 	unsigned int i, j;
 
