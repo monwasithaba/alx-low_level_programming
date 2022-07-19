@@ -4,6 +4,7 @@
 *_strbrk - prints the consecustive characters of the s1 that are in s2
 *@s: source string
 *@accept: searching string
+*
 *Return: new string
 */
 char *_strbrk(char *s, char *accept)
@@ -26,4 +27,3 @@ char *_strbrk(char *s, char *accept)
 	}
 	return (0);
 }
-
