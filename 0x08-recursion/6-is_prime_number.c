@@ -40,6 +40,6 @@ int is_prime_number(int n)
 	}
 	else
 	{
-		return (helperfucntion(n, 2));
+		return (helperfunction(n, 2));
 	}
 }
